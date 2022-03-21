@@ -1,6 +1,10 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="ADD_IMPORTS_ON_PASTE" value="3" />
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
@@ -10,5 +14,10 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
 </application>
