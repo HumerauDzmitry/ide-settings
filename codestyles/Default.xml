@@ -11,4 +11,9 @@
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="140" />
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
