@@ -65,6 +65,7 @@
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
