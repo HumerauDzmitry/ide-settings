@@ -8,6 +8,7 @@
       <mapping pattern="270_ediJson" type="AUTO_DETECTED" />
       <mapping pattern="276_ediJson" type="AUTO_DETECTED" />
       <mapping pattern="crpm3956766602930918125" type="AUTO_DETECTED" />
+      <mapping pattern="crpm18411063000812466349" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
