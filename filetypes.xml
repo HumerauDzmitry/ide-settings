@@ -10,6 +10,7 @@
       <mapping pattern="crpm9322529313494057634" type="AUTO_DETECTED" />
       <mapping pattern="270_ediJson" type="AUTO_DETECTED" />
       <mapping pattern="crpm13598701316526455993" type="AUTO_DETECTED" />
+      <mapping pattern="multiPdfFile" type="AUTO_DETECTED" />
       <mapping pattern="crpm2179437928613140858" type="AUTO_DETECTED" />
       <mapping pattern="276_ediJson" type="AUTO_DETECTED" />
       <mapping pattern="crpm3956766602930918125" type="AUTO_DETECTED" />
