@@ -15,9 +15,11 @@
       <mapping pattern="crpm3956766602930918125" type="AUTO_DETECTED" />
       <mapping pattern="crpm4037658346228888898" type="AUTO_DETECTED" />
       <mapping pattern="crpm1047569401447240718" type="AUTO_DETECTED" />
+      <mapping pattern="expected8030728867736616127" type="AUTO_DETECTED" />
       <mapping pattern="crpm14814884006874820429" type="AUTO_DETECTED" />
       <mapping pattern="crpm17837522644020078083" type="AUTO_DETECTED" />
       <mapping pattern="crpm18411063000812466349" type="AUTO_DETECTED" />
+      <mapping pattern="actual11810491771207448479" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
