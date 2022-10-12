@@ -27,7 +27,6 @@
       <mapping ext="277ibr" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="edi" type="PLAIN_TEXT" />
-      <mapping ext="sql" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
